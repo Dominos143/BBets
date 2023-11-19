@@ -104,7 +104,7 @@ hist(teachers,
      main = "Teachers Histogram",
      xlab = "teachers",
      ylab = "Frequency",
-     col = "blue",
+     col = "purple",
      border = "black")
 ```
 
